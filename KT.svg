@@ -1,0 +1,9 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+    <!-- Fondo circular -->
+    <circle cx="32" cy="32" r="32" fill="#0055A4"></circle>
+
+    <!-- Iniciales KT -->
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central" font-family="Montserrat, Arial, sans-serif" font-size="36" font-weight="700" fill="#ffffff">
+        KT
+    </text>
+</svg>
